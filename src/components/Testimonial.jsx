@@ -23,17 +23,13 @@ function Testimonial() {
           </Heading>
           <Box>
             <Text fontSize="xl" color="gray.600">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore Ut enim ad minim veniam, quis
-              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              con Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatu.
+            ShopSavvy is my secret weapon for smart shopping. The app's user-friendly design and personalized recommendations have made my shopping experience a breeze. Plus, their 24/7 support team is incredibly responsive and helpful. ShopSavvy truly sets the bar high for shopping apps!
             </Text>
           </Box>
           <VStack>
-            <Avatar src="./avatar.jpg" size="2xl" />
+            <Avatar src="./5.jpg" size="2xl" />
             <Heading mt={2} textAlign="center">
-              Trevor
+              Tony Stark
             </Heading>
           </VStack>
         </VStack>
