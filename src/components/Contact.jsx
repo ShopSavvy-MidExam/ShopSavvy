@@ -17,8 +17,7 @@ function Contact() {
           <Box>
             <Heading color="primary.500">Contact Us</Heading>
             <Text color="gray.500" maxW="md">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore Ut enim ad minim veniam.
+            Have questions or suggestions? Our team is here to help! Reach out to us anytime for assistance or to share your feedback.
             </Text>
           </Box>
           <VStack spacing={4} w="full" maxW="sm" alignItems="flex-start">
