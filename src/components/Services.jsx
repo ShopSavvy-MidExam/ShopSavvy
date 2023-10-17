@@ -34,8 +34,7 @@ function Services() {
               </Box>
               <Heading fontSize="xl">24/7 Support</Heading>
               <Text color="gray.500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore
+              Available around the clock, our 24/7 support team is here to assist you anytime you need help.
               </Text>
             </VStack>
             <VStack alignItems="flex-start" py={4} px={8} gap={2}>
@@ -44,18 +43,16 @@ function Services() {
               </Box>
               <Heading fontSize="xl">Modern Equipment</Heading>
               <Text color="gray.500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore
+              We leverage state-of-the-art equipment to deliver cutting-edge solutions
               </Text>
             </VStack>
             <VStack alignItems="flex-start" py={4} px={8} gap={2}>
               <Box color="primary.500">
                 <Activity size={36} />
               </Box>
-              <Heading fontSize="xl">Emergency OP</Heading>
+              <Heading fontSize="xl">Talented team</Heading>
               <Text color="gray.500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore
+              Our talented team of experts drives innovation and excellence
               </Text>
             </VStack>
           </HStack>
