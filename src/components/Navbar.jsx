@@ -17,8 +17,8 @@ function Navbar() {
       <Container maxW="container.lg">
         <HStack w="full" justifyContent="space-between" alignItems="center" py={4}>
           <HStack alignItems="center">
-            <Image src="./medical-kit.svg" w={26} />
-            <Text fontWeight="bold">Med World</Text>
+            <Image src="./Logo.png" w={26} />
+            <Text fontWeight="bold">Shop Savvy</Text>
           </HStack>
           <HStack fontWeight="bold" gap={5} color="gray.600">
             <Link display={["none", "none", "block"]} href="/#about">About Us</Link>

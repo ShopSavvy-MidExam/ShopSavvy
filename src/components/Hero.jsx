@@ -26,17 +26,15 @@ function Hero() {
         
       >
         <Heading fontSize={["2xl", "3xl", "4xl"]} pt={["80px", null, 0]} fontWeight="bold">
-          A Dedicated Team To Grow Your Health
+          A Dedicated Team To Grow Your User Experience
         </Heading>
         <Text fontSize="xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque,
-          perspiciatis eveniet ad dicta rerum eligendi esse quis nostrum
-          voluptas aut.
+        At ShopSavvy, we understand that user experience is at the heart of every successful shopping app. That's why we have a dedicated team committed to enhancing your experience every step of the way. Our passionate experts are here to ensure that your journey on our platform is seamless, intuitive, and truly delightful
         </Text>
         <Button>Get Started</Button>
       </VStack>
       <Box className="w-full">
-        <Image src="./hero-bg.jpg" h="full" w="full" objectFit="cover" />
+        <Image src="./3.jpg" h="full" w="full" objectFit="cover" />
       </Box>
     </SimpleGrid>
   );
