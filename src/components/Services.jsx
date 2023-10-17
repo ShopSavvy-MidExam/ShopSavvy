@@ -25,7 +25,7 @@ function Services() {
             <Text fontSize="xl" color="primary.500">
               Features
             </Text>
-            <Heading>State of The Art Healthcare</Heading>
+            <Heading>State of The Art Shop Savvy +</Heading>
           </Box>
           <HStack spacing={10}>
             <VStack alignItems="flex-start" py={4} px={8} gap={2}>
